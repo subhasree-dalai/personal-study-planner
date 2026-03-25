@@ -39,3 +39,10 @@ To build a menu-driven Python program that helps students:
 ---
 
 ## 📁 Project Structure
+personal-study-planner/
+│
+├── main.py
+├── tasks.json
+├── README.md
+├── report_content.txt
+└── requirements.txt
