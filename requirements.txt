@@ -1,0 +1,9 @@
+# Personal Study Planner - Requirements
+
+# This project uses only Python standard library modules.
+# No external libraries are required.
+
+# Built-in modules used:
+# json
+# os
+# datetime
