@@ -1,0 +1,91 @@
+PERSONAL STUDY PLANNER
+Project Report
+
+1. Introduction
+In student life, managing study tasks, assignment deadlines, and revision schedules is often difficult. Many students forget important work, delay preparation, and feel stressed due to poor planning. A simple study planner can help organize tasks properly and reduce confusion.
+
+2. Problem Identification
+Students usually have multiple subjects and many tasks to complete within limited time. Without proper planning, they may miss assignment submissions, forget revision work, and fail to prioritize important tasks. This creates academic pressure and poor time management.
+
+3. Problem Statement
+Many students face difficulty in managing their study-related tasks effectively. They need a simple system to record, track, and update their academic tasks in an organized way.
+
+4. Objective of the Project
+The main objective of this project is to develop a Python-based Personal Study Planner that allows students to:
+- Add study tasks
+- View all tasks
+- Search tasks by subject
+- Mark tasks as completed
+- Delete tasks
+- Identify overdue tasks
+
+5. Why This Problem Matters
+This problem is important because students are often under pressure from assignments, classes, exams, and personal responsibilities. A planner helps improve discipline, reduce stress, and increase productivity.
+
+6. Methodology / Approach
+The project is developed as a menu-driven Python application. When the program runs, the user is shown a set of options. The user can choose any option to manage study tasks.
+
+The following approach was used:
+- Tasks are stored in a JSON file
+- Data is loaded at the start of the program
+- Functions are used for each operation
+- Data is saved after every change
+
+7. Tools and Technologies Used
+- Python 3
+- JSON file handling
+- VS Code / PyCharm
+- GitHub
+
+8. Features of the Project
+- Add Task
+- View All Tasks
+- Mark Task as Completed
+- Delete Task
+- Search Tasks by Subject
+- Show Overdue Tasks
+- Data storage using JSON
+
+9. Description of Working
+Each task contains:
+- Task Name
+- Subject
+- Deadline
+- Priority
+- Status
+
+The user inputs these details while adding a task. The system stores them in a JSON file. The user can later view, update, or delete tasks.
+
+10. Python Concepts Used
+- Variables and data types
+- Input and output
+- Conditional statements
+- Loops
+- Functions
+- Lists and dictionaries
+- File handling
+- JSON module
+- datetime module
+
+11. Challenges Faced
+- Handling incorrect user input
+- Managing file reading and writing
+- Validating date format
+- Structuring code properly
+
+12. Learning Outcomes
+- Real-world problem solving using Python
+- File handling using JSON
+- Writing modular code
+- Understanding GitHub workflow
+- Writing proper documentation
+
+13. Conclusion
+The Personal Study Planner successfully helps students organize their study tasks and manage deadlines efficiently. It demonstrates how Python can be used to solve real-life problems in a simple and effective way.
+
+14. Future Scope
+- GUI version using Tkinter
+- Notification reminders
+- Login system
+- Mobile app version
+- Progress tracking system
