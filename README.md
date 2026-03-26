@@ -54,19 +54,19 @@ personal-study-planner/
 ## 📸 Screenshots
 
 ### Main Menu
-![Menu](screenshots/menu.png)
+![Menu](menu.png)
 
 ### Add Task
-![Add Task](screenshots/add_task.png)
+![Add Task](add_task.png)
 
 ### Add Task
-![Add Task](screenshots/add_task1.png)
+![Add Task](add_task1.png)
 
 ### Delete Task
-![Delete Task](screenshots/delete_tasks.png)
+![Delete Task](delete_tasks.png)
 
 ### Completed Task
-![Complete Task](screenshots/task_completed.png)
+![Complete Task](task_completed.png)
 
 ---
 
