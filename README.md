@@ -59,11 +59,14 @@ personal-study-planner/
 ### Add Task
 ![Add Task](screenshots/add_task.png)
 
-### View Tasks
-![View Tasks](screenshots/view_tasks.png)
+### Add Task
+![Add Task](screenshots/add_task1.png)
 
-### Search Task
-![Search](screenshots/search.png)
+### Delete Task
+![Delete Task](screenshots/delete_tasks.png)
+
+### Completed Task
+![Complete Task](screenshots/task_completed.png)
 
 ---
 
@@ -107,3 +110,4 @@ personal-study-planner/
 
 ## 👩‍💻 Author
 Subhasree Dalai
+25BEC10091
