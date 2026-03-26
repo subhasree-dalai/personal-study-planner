@@ -46,3 +46,64 @@ personal-study-planner/
 ├── README.md
 ├── report_content.txt
 └── requirements.txt
+
+
+
+---
+
+## 📸 Screenshots
+
+### Main Menu
+![Menu](screenshots/menu.png)
+
+### Add Task
+![Add Task](screenshots/add_task.png)
+
+### View Tasks
+![View Tasks](screenshots/view_tasks.png)
+
+### Search Task
+![Search](screenshots/search.png)
+
+---
+
+## 📚 Python Concepts Used
+- Variables and data types
+- Input/output
+- Conditional statements
+- Loops
+- Functions
+- Lists and dictionaries
+- File handling (JSON)
+- Date handling (datetime)
+
+---
+
+## 🚧 Challenges Faced
+- Handling invalid user inputs
+- Managing file operations
+- Validating date formats
+- Structuring code properly
+
+---
+
+## 🎓 Learning Outcomes
+- Real-life problem solving using Python
+- File handling using JSON
+- Writing modular code
+- Using GitHub for version control
+- Writing documentation
+
+---
+
+## 🔮 Future Scope
+- GUI using Tkinter
+- Notification system
+- Login system
+- Mobile app version
+- Calendar integration
+
+---
+
+## 👩‍💻 Author
+Subhasree Dalai
